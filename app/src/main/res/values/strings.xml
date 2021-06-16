@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Content_Provider_Demo</string>
+    <string name="student_crud">Manage Student Provider</string>
+    <string name="student_id">Student ID</string>
+    <string name="student_name">Student Name</string>
+    <string name="btnAdd">Add Student</string>
+    <string name="btnUpdate">Update Student</string>
+    <string name="btnDelete">Delete Student</string>
+</resources>
